@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #313131;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: slateblue;
+    margin: 25px 0 0 0;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+#container #players {
+    padding: 25px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+#container #playingTo {
+    margin: auto;
+    font-size: 26px;
+}
+
+#container #playingTo select {
+    font-size: 26px;
+    border-radius: 5px;
+}
+
+#container #btns {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+#container #btns button {
+    font-size: 26px;
+    padding: 5px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#resetScore {
+    background-color: lightcoral;
+}
+
+@media screen and (max-width: 600px) {
+    #container #btns {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #container #btns button {
+        max-width: fit-content;
+    }
+}
+
+.win {
+    color: green !important;
+}
+
+.lost {
+    color: red !important;
+}
