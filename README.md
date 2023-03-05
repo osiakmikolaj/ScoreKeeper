@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Score Keeper
 
 Keeps track of scores for two players up to 20 points.
@@ -21,9 +20,6 @@ There are only three buttons to operate:<br>
 You can change the winning score with `1 v`.
 
 ## Credits
-
 Thanks to [Colt Steele](https://www.youtube.com/@ColtSteeleCode) and his [Udemy course](https://www.udemy.com/course/the-web-developer-bootcamp/) i made this project
-=======
-# ScoreKeeper
 
->>>>>>> 47b7d97ed0180483abad609f844b8e15bcf8c5e4
+
