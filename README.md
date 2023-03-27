@@ -20,6 +20,6 @@ There are only three buttons to operate:<br>
 You can change the winning score with `1 v`.
 
 ## Credits
-Thanks to [Colt Steele](https://www.youtube.com/@ColtSteeleCode) and his [Udemy course](https://www.udemy.com/course/the-web-developer-bootcamp/) i made this project
+Thanks to [Colt Steele](https://www.youtube.com/@ColtSteeleCode) and his [Udemy course](https://www.udemy.com/course/the-web-developer-bootcamp/) i made this project.
 
 
